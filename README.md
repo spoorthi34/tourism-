@@ -27,5 +27,4 @@ This project is ideal for:
 
 ---
 
-### 👩‍💻 Author  
-Developed as part of **CCBP Learning Program**.  
+
